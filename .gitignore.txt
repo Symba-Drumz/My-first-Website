@@ -1,0 +1,2 @@
+# ignore all README files
+*README
